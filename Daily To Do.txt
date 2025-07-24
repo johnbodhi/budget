@@ -7,11 +7,11 @@ Venmo Card
 
 CashApp Card
 
+EBT Card
+
 CVS Extra Care Card
 
 Red Cross Blood Donor Card
-
-Tax Return
 
 
 --------------
@@ -46,11 +46,18 @@ Job Search, Current / Active
 -----------------------------
 
 
----------------------------------------------------------
-Pay Stubs / Lottery / Payouts / CSL Plasma Shopping List
----------------------------------------------------------
+----------
+Purchases
+----------
 
 Condor Backpack
+
+
+---------
+Deposits
+---------
+
+Tax Return(s) ( 2023 / 2024 )
 
 
 
