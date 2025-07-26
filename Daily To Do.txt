@@ -3,11 +3,11 @@
 Snail Mail Items
 -----------------
 
+EBT Card
+
 Venmo Card
 
 CashApp Card
-
-EBT Card
 
 CVS Extra Care Card
 
@@ -44,6 +44,7 @@ Church ( Pantano )
 -----------------------------
 Job Search, Current / Active
 -----------------------------
+
 
 
 ----------
