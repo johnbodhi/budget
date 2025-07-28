@@ -1,3 +1,7 @@
+
+
+
+
 ---
 
 **Sonoran Serenity**
@@ -118,11 +122,15 @@ Call NICS for Appeal with Waiver
 
 2023 / 2024 Tax Return -> DUI Classes / Risk Assessment -> AA -> 
 
-&nbsp;	Other References -> Formal IL State Driver's Hearing ( Within Six Months of Class      	Completion ) -> Full DV Reinstatement / Driver's Permit
+&nbsp;	Other References -> Formal IL State Driver's Hearing ( Within Six Months of Class      	
+
+&nbsp;	Completion ) -> Full DV Reinstatement / Driver's Permit
 
 
 
-Psychiatrist in IL ( Zoom ) -> Psychological Waiver / Medication Management -> FOID Appeal  ( NICS ) -> AZ CCP Application
+Psychiatrist in IL ( Zoom ) -> Psychological Waiver / Medication Management -> 
+
+&nbsp;	FOID Appeal  ( NICS ) -> AZ CCP Application
 
 
 

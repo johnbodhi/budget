@@ -1,3 +1,5 @@
+
+
 ---
 
 **Snail Mail Items**
@@ -36,7 +38,9 @@ Red Cross Blood Donor Card
 
 
 
-Pick Up Social Security Card ( Wednesday, July 30th 3808 N 1st Ave, Tucson, AZ 85719 )
+Pick Up Social Security Card ( Wednesday, 
+
+&nbsp;	July 30th 3808 N 1st Ave, Tucson, AZ 85719 )
 
 
 
@@ -66,6 +70,8 @@ Job Search
 
 
 
+
+
 ---
 
 **Weekly Focus**
@@ -78,11 +84,15 @@ CSL Plasma ( Wed, Fri )
 
 
 
-Alcoholics Anonymous ( Eastside Alano Morning 6:45 AM, Himmel Park Meeting 10:00 AM )
+Alcoholics Anonymous ( Eastside Alano Morning 6:45 AM, 
+
+&nbsp;	Himmel Park Meeting 10:00 AM )
 
 
 
 Church ( Pantano )
+
+
 
 
 
@@ -114,6 +124,8 @@ Condor Backpack
 
 
 
+
+
 ---
 
 **Deposits**
@@ -123,6 +135,10 @@ Condor Backpack
 
 
 Tax Return(s) ( 2023 FreeTaxUSA! )
+
+
+
+
 
 
 
