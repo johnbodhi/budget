@@ -38,9 +38,7 @@ Red Cross Blood Donor Card
 
 
 
-Pick Up Social Security Card ( Wednesday, 
-
-&nbsp;	July 30th 3808 N 1st Ave, Tucson, AZ 85719 )
+Pick Up Social Security Card ( Wednesday, July 30th 3808 N 1st Ave, Tucson, AZ 85719 )
 
 
 
@@ -56,6 +54,8 @@ Pick Up Social Security Card ( Wednesday,
 
 Sobriety
 
+
+Gratitude List
 
 
 Gym
