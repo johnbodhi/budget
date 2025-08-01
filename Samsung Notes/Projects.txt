@@ -1,0 +1,22 @@
+Machine Learning / Digital Signal Processing:
+
+
+Neural Network ( CNN, GNN, RNN )
+
+Hidden Markov Model ( HMM / fHMM )
+
+Decisions Trees
+
+Gradient Methods
+
+Probability Methods
+
+
+
+Simulation: 
+
+
+Finite Difference Time Domain ( FDTD )
+
+Finite Difference Frequency Domain ( FDFD )
+

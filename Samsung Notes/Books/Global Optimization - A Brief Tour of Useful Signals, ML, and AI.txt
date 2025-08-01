@@ -1,0 +1,7 @@
+Title: 
+
+Computer Vision: A Brief Look at a Few Methods behind ML, AI, and the Meaning of Useful Signals
+
+A classical introduction to deterministic and probabalistic discrete data processing, and global optimization.
+
+Chapters:
