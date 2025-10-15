@@ -1,9 +1,11 @@
 ---
 Return Address
 ---
+
 	John Michael Garofalo
  	6161 E Pima Street
  	Tucson, AZ 85712
+
 
 ---
 Appointments
@@ -41,6 +43,7 @@ University of Arizona:
  	Aquatic Conference Room ( $95.00 Non-Member )
  	10/19/2025
 
+
 ---
 Snail Mail Items
 ---
@@ -52,15 +55,19 @@ On-Site Items
 
 Amazon Orders ( Whole Foods Market )
 
-USPS          ( 6460 E Grant Rd, Tucson, AZ 85715 )       
+USPS          ( 6460 E Grant Rd, Tucson, AZ 85715 ) 
+
+UPS           ( 1517 N Wilmot Rd, Tucson, AZ 85712 )      
+
+
 
 ---
 Priority Focus
 ---
 
-	Sobriety - AA / NA Meetings
+	Sobriety                       ( AA / NA )
  	New Job 		       ( Retail, Tutor, Engineering )
- 	Change of Address
+ 	Change of Address              ( 6161 E Pima #1074, Tucson AZ, 85712 )
 
 ---
 Daily Focus
