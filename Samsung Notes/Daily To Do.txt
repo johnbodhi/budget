@@ -47,18 +47,16 @@ Priority Focus
 ---
 
 	Sobriety                       ( AA / NA )
- 	New Job 		       ( Retail, Tutor, Engineering )
- 	Change of Address              ( 6161 E Pima #1074, Tucson AZ, 85712 )
+  	Change of Address              ( 6161 E Pima #1074, Tucson AZ, 85712 )
 
 ---
 Daily Focus
 ---
 
-	Meet % DV Nutritional / Caloric / Supplemental Values
+	Meet % DV Nutritional / Supplemental Values
 
 	Sobriety               ( People, Places, Things )    
 	Gym		       ( Online / In-Person )
-	Job Search             
 	Medication as Directed ( Trazadone / Vitamin / Ibuprofen / Magnesium Oxide / Melatonin )
 	Saving Money
 
@@ -76,7 +74,7 @@ Weekly Focus
 Monthly Focus
 ---
 
-	Medications                                              ( Wal-Mart                   )                                 
+	Medications                                              ( Wal-Mart Pharmacy          )                                 
 	Sponsorship / Sponsor Chair AA Meetings / Speaker Alano  ( Eastside / Pima / North    )
 	DUI Classes / Risk Assessment		     		 ( Sonoran Serenity           )
 	Traditional / Non-Traditional Support Letters 		 ( AA / Reference Development )	
@@ -93,42 +91,42 @@ Job Search, Current / Active
 Shopping List
 ---
 
-	Pocket Knife  ( Pro-Tech Tactical Automatic )
-	Leatherman    ( Sidekick                    )
-	Running Shoes ( Nike Pegasus Premiums       ) 
-	Trek Bicycle  ( Checkpoint                  )
-
+	Pocket Knife            ( Pro-Tech Tactical Automatic              )
+	Leatherman              ( Sidekick                                 )
+	Running Shoes           ( Nike Pegasus Premiums                    ) 
 	Coach Tri-Fold Wallet
-	Oxford Shoes
-	Dress Jacket / Pants
+	Gravel Bicycle          ( Trek Checkpoint / Specialized Diverge    )
+
+	
 
 ---
 Recurring Bills
 ---
 	
-	Vasa Bill        ( $24.99 / Month )        
-	Phone Bill       ( $1.00  / Month )   
-	Microsoft Bill   ( $9.99  / Month )        
+	Vasa Bill        ( $24.99 / Month     )        
+	Phone Bill       ( $1.00  / Month     )   
+	Microsoft Bill   ( $9.99  / Month     )        
 	Laundry          ( $10.00 / Bi-Weekly )      
 
 ---
 Daily Schedule
 ---
 
-	Gym                      ( Vasa Fitness )           
- 	Meetings                 ( AA / NA - Online / In-Person)
-	Job Search   	         ( Indeed / Company Site / In-Person )
- 	Research & Development   ( Codes / Problem Sets / Abstracts / Textbook )
+	Gym                      ( Vasa Fitness                                 )           
+ 	Meetings                 ( AA / NA - Online / In-Person                 )
+	Job Search   	         ( Indeed / Company Site / In-Person            )
+ 	Research & Development   ( Codes / Problem Sets / Abstracts / Textbook  )
 
-	Apartment Chors
-	Spend time with Deanna
+	Apartment Duties         ( Dishes, Floors, Bed, Bathroom, Clothes, Lawn )
+	
+	Deanna and Onesimus
  
 ---
 Leisure
 ---       
        
 	Internet / Writing / Coding / Budgeting / Problem Solving 
-        JG + DM / Whole Foods Market / Thrift Store / Hiking / Camping
         Confinement / Isolation
         Rest / Meditation / Preparation
         Situation Planning
+	Activities
