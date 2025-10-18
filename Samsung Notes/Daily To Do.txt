@@ -6,7 +6,6 @@ Return Address
  	6161 E Pima Street
  	Tucson, AZ 85712
 
-
 ---
 Appointments
 ---
@@ -97,9 +96,9 @@ Monthly Focus
 
 	Medications                                   
 	Sponsorship / Sponsor Chair AA Meetings / Speaker Alano  ( Eastside / Pima / North )
-	Driver's License
 	DUI Classes / Risk Assessment		     
 	Traditional / Non-Traditional Support Letters 		 ( AA / Reference Development )
+	Driver's License
  	Credit Building / Saving Money 
 
 ---
@@ -110,10 +109,15 @@ Job Search, Current / Active
 Shopping List
 ---
 
+	Pocket Knife
+	Leatherman
+	Running Shoes
+	Owala
+
 ---
 Recurring Bills
 ---
-
+	
 	Vasa Bill        ( $24.99 / Month )        
 	Phone Bill       ( $1.00  / Month )   
 	Microsoft Bill   ( $9.99  / Month )        
