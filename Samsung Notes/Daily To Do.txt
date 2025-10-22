@@ -33,6 +33,9 @@ Pima Heart:
 Snail Mail Items
 ---
 
+	Birthday Present:
+		
+		The UPS Store!
 
 ---
 On-Site Items
@@ -56,7 +59,7 @@ Daily Focus
 	Meet % DV Nutritional / Supplemental Values
 
 	Sobriety               ( People, Places, Things )    
-	Gym		       ( Online / In-Person )
+	Gym		      
 	Medication as Directed ( Trazadone / Vitamin / Ibuprofen / Magnesium Oxide / Melatonin )
 	Saving Money
 
@@ -90,34 +93,32 @@ Job Search, Current / Active
 ---
 Shopping List
 ---
-
-	Pocket Knife            ( Pro-Tech Tactical Automatic              )
+	
+	Water Bottle            ( 32 Ounce Owala                           )
+	Pocket Knife            ( Pro-Tech Tactical Automatic TR-5         )
 	Leatherman              ( Sidekick                                 )
-	Running Shoes           ( Nike Pegasus Premiums                    ) 
 	Coach Tri-Fold Wallet
 	Gravel Bicycle          ( Trek Checkpoint / Specialized Diverge    )
-
 	
-
 ---
 Recurring Bills
 ---
 	
-	Vasa Bill        ( $24.99 / Month     )        
+	Vasa Bill        ( $14.99 / Month     )        
 	Phone Bill       ( $1.00  / Month     )   
 	Microsoft Bill   ( $9.99  / Month     )        
-	Laundry          ( $10.00 / Bi-Weekly )      
+	Laundry          ( $5.00 / Bi-Weekly  )      
 
 ---
 Daily Schedule
 ---
 
-	Gym                      ( Vasa Fitness                                 )           
- 	Meetings                 ( AA / NA - Online / In-Person                 )
-	Job Search   	         ( Indeed / Company Site / In-Person            )
- 	Research & Development   ( Codes / Problem Sets / Abstracts / Textbook  )
+	Gym                      ( Vasa Fitness                                       )           
+ 	Meetings                 ( AA / NA - Online / In-Person                       )
+	Job Search   	         ( Indeed / Company Site / In-Person                  )
+ 	Research & Development   ( Codes / Problem Sets / Abstracts / Textbook        )
 
-	Apartment Duties         ( Dishes, Floors, Bed, Bathroom, Clothes, Lawn )
+	Apartment Duties         ( Dishes, Floors, Bed, Bathroom, Clothes, Lawn, Cook )
 	
 	Deanna and Onesimus
  
