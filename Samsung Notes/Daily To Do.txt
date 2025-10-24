@@ -12,14 +12,21 @@ Appointments
 
 Banner Medical:
 
+	Banner Cancer Center
 	Dr. Coull 
-	MRI - Thursday, November 2nd, 2025
+	MRI - Sunday, November 2nd, 2025
  	02/02/2025 at 6:00 AM
 
  	3838 N Campbell Ave
  	Building #2
  	2nd Floor East Door Letter
- 
+
+	The Neuropsychology Institute
+	The Memory Program
+	5501 N Swan Rd. #100
+	Tucson AZ, 85718
+	(520) 954-9930
+
 Pima Heart:
  
 	Dr. Makki 
@@ -36,14 +43,15 @@ Snail Mail Items
 	Birthday Present:
 		
 		The UPS Store!
+		
 
 ---
 On-Site Items
 ---
 
-Amazon Orders ( Whole Foods Market                 )
-USPS          ( 6460 E Grant Rd, Tucson, AZ 85715  )
-UPS           ( 1517 N Wilmot Rd, Tucson, AZ 85712 )      
+	Amazon Orders     ( Whole Foods Market                 )
+	USPS              ( 6460 E Grant Rd, Tucson, AZ 85715  )
+	The UPS Store     ( 1517 N Wilmot Rd, Tucson, AZ 85712 )      
 
 ---
 Priority Focus
