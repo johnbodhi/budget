@@ -6,9 +6,11 @@ Eggs
 White Rice 
 Chicken Thighs
 Ground / Sliced Beef
+Fiah
 Freezer / Premade Meals 
 Whole Milk
 Fresh / Canned Fruit / Mixed Bowls
+Mixed Steamed Veggies
 Sweet Potatoes
 Oatmeal
 Cheese
@@ -22,6 +24,7 @@ Soy Sauce
 Bag Salads
 BBQ Sauce
 Soup
+Chili
 Flavored Seltzer
 Salted / Unsalted Butter
 Sliced Meat
