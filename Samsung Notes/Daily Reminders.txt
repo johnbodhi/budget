@@ -11,7 +11,7 @@ Return Address
 	Tucson AZ, 85711
 
 ---
-Appointments
+On-Site Appointments
 ---
 
 FBI Finger Printing:
@@ -30,39 +30,44 @@ FBI Finger Printing:
 
 Planet Fitness:
 
-	Evelyn, Jack
-
+	Evelyn Botto
 	{ 34, 62, 401 } 
+
+PetSmart:
+
+	Peyton Santa
+
+	{ 34, 62, 401 }
 
 El Rio Health: 
 
-	Kelly Vollmer
-	12/01/2025 at 11:00 AM
-	Reschedule MRI with Banner Medical
-	Reschedule Heart Check-Up with Pima Heart
 
 
 Banner Medical:
 
 	Banner Cancer Center
-	Dr. Coull 
+	Neurology
+	Radiology
+
+	Sunday January 4th at 4:00 PM
+	Bring Paper Work
 
  	3838 N Campbell Ave, Tucson AZ, 85712
  	Building #2
 
-The Neuropsychology Institute:
-
+	The Neuropsychology Institute
 	The Memory Program
 
 	5501 N Swan Rd. #100
 	Tucson AZ, 85718
 	(520) 954-9930
 
-Pima Heart:
- 
+CMG Cardiology East:
+
+	New Patient 30 with Katherine Tan Lee Chuy, MD
 	Heart Check-Up
- 	12/12/2025 at 10:30 AM
- 	4729 E Camp Lowell Dr, Tucson, AZ 85712
+ 	Friday, January 9th 2026 at 1:15 PM
+ 	6567 E Carondelet Dr., Tucson, AZ 85710
  	(520) 321-4800
  
 
