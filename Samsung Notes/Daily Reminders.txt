@@ -3,6 +3,7 @@ Return Address
 ---
 
 	John Michael Garofalo
+	Deanna Marie Esparza
  	6161 E Pima Street #1074
  	Tucson, AZ 85712
 
@@ -31,13 +32,14 @@ FBI Finger Printing:
 Planet Fitness:
 
 	Evelyn Botto
-	{ 34, 62, 401 } 
+
+	Bus Route: { 34, 62, 401 } 
 
 PetSmart:
 
 	Peyton Santa
 
-	{ 34, 62, 401 }
+	Bus Route: { 34, 62, 401 }
 
 El Rio Health: 
 
@@ -65,8 +67,9 @@ Banner Medical:
 CMG Cardiology East:
 
 	New Patient 30 with Katherine Tan Lee Chuy, MD
-	Heart Check-Up
+
  	Friday, January 9th 2026 at 1:15 PM
+
  	6567 E Carondelet Dr., Tucson, AZ 85710
  	(520) 321-4800
  
@@ -74,14 +77,14 @@ CMG Cardiology East:
 ---
 Snail Mail Items
 ---
-	Get New / Old Series of Retainers Sent from Dental Fields
+	Series of Retainers Sent from Dental Fields
 
 ---
 On-Site Items
 ---
 
 	Amazon Orders             ( 3360 E Speedway Blvd, Tucson, AZ 85716  )
-	USPS                      ( 6460 E Grant Rd, Tucson, AZ 85715       )
+	USPS                      ( 255 N Rosemont Blvd, Tucson, AZ 85711   )
 	The UPS Store             ( 1517 N Wilmot Rd, Tucson, AZ 85712      )      
 
 ---
@@ -126,6 +129,11 @@ Monthly Focus
 Job Search, Current / Active
 ---
 
+	PetSmart 
+	Planet Fitness
+	Rincon Research Corp.
+	Raytheon / RTX
+	Roche
 
 ---
 Shopping List
@@ -133,6 +141,7 @@ Shopping List
 	
 	Coach Tri-Fold Wallet   ( Black Leather                            )
 	Gravel Bicycle          ( Trek Checkpoint / Specialized Diverge    )
+	Cell Phone		( Samsung Android                          )
 	
 ---
 Recurring Bills
@@ -148,7 +157,7 @@ Daily Schedule
 ---
 
 	Gym                      ( Vasa Fitness, Planet Fitness                           )           
- 	Meetings                 ( AA / NA - Online / In-Person                           )
+ 	Meetings 365             ( AA / NA - Online / In-Person                           )
 	Job Search   	         ( Indeed / Company Site / In-Person                      )
  	Research & Development   ( Codes / Problem Sets / Abstracts / Textbook            )
 	House Duties             ( Dishes, Floors, Bedroom, Bathroom, Clothes, Lawn, Cook )
