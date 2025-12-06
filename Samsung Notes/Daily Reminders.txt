@@ -7,6 +7,7 @@ Return Address
  	6161 E Pima Street #1074
  	Tucson, AZ 85712
 
+	Oxford House - Sentinel House
 	John Michael Garofalo
 	450 S Rosemont Ave
 	Tucson AZ, 85711
@@ -17,33 +18,30 @@ On-Site Appointments
 
 FBI Finger Printing:
 
-	USPS - TUCSON CHERRYBELL
+	USPS
 	1501 S CHERRYBELL
 	TUCSON, AZ 85713
-
 	(520) 388-5043
-	LOT PARKING AVAILABLE
 
 	FINGERPRINTING HOURS:
-		MON-FRI: 9:00AM - 6:00PM
-		SAT: 8:30AM - 2:30PM
-		SUN: CLOSED
 
-Planet Fitness:
+	MON-FRI: 9:00AM - 6:00PM
+	SAT: 8:30AM - 2:30PM
+	SUN: CLOSED
 
-	Evelyn Botto
+Tucson City Court:
 
-	Bus Route: { 34, 62, 401 } 
-
-PetSmart:
-
-	Peyton Santa
-
-	Bus Route: { 34, 62, 401 }
+	Pretrial on 12/08/2025 at 2:00 PM
+	103 E Alameda, Tucson Arizona, 85725
+	(520) 791-4216
 
 El Rio Health: 
 
-
+	Dental 	
+	Dr. Theresa Nguyen on  12/11/2025 at 1:00 PM
+	4550 S. Palo Verde Road
+	Tucson, Arizona 85714
+	(520) 670-3909		
 
 Banner Medical:
 
@@ -109,7 +107,7 @@ Weekly Focus
 ---
 
 	Alcoholics Anonymous ( Alano / Himmel               )
-	Church               ( Tucson Baptist Church        )      
+	Church               ( Tucson Methodist Church      )      
 	Gym 		     ( Planet Fitness, Vasa Fitness )
 	Hygiene              ( Travel Items                 )
 	Laundry              
@@ -140,8 +138,9 @@ Shopping List
 ---
 	
 	Coach Tri-Fold Wallet   ( Black Leather                            )
-	Gravel Bicycle          ( Trek Checkpoint / Specialized Diverge    )
 	Cell Phone		( Samsung Android                          )
+	Gravel Bicycle          ( Trek Checkpoint / Specialized Diverge    )
+	
 	
 ---
 Recurring Bills
