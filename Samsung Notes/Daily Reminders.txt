@@ -2,15 +2,21 @@
 Return Address
 ---
 
+	Oxford House - Sentinel House
+	John Michael Garofalo
+	450 S Rosemont Ave
+	Tucson AZ, 85711
+
+	Community Bridges Inc.
+	John Michael Garofalo
+	250 S Toole Ave
+	Tucson AZ, 85701
+
 	John Michael Garofalo
 	Deanna Marie Esparza
  	6161 E Pima Street #1074
  	Tucson, AZ 85712
 
-	Oxford House - Sentinel House
-	John Michael Garofalo
-	450 S Rosemont Ave
-	Tucson AZ, 85711
 
 ---
 On-Site Appointments
@@ -44,7 +50,7 @@ Tucson City Court:
 El Rio Health: 
 
 	Dental 	
-	Dr. Theresa Nguyen on 12/11/2025 at 1:00 PM
+	Dr. Theresa Nguyen on 12/19/2025 at 1:30 PM
 	4550 S. Palo Verde Road
 	Tucson, Arizona 85714
 	(520) 670-3909		
@@ -71,14 +77,10 @@ Banner Medical:
 CMG Cardiology East:
 
 	New Patient 30 with Katherine Tan Lee Chuy, MD
-
  	Friday, January 9th 2026 at 1:15 PM
-
  	6567 E Carondelet Dr., Tucson, AZ 85710
-
  	(520) 321-4800
  
-
 ---
 Snail Mail Items
 ---
@@ -94,25 +96,25 @@ On-Site Items
 ---
 
 	Amazon Orders             ( 3360 E Speedway Blvd, Tucson, AZ 85716  )
-	USPS                      ( 255 N Rosemont Blvd, Tucson, AZ 85711   )
-	The UPS Store             ( 1517 N Wilmot Rd, Tucson, AZ 85712      )      
+	USPS                      ( 255 N Rosemont Blvd , Tucson, AZ 85711  )
+	The UPS Store             ( 1517 N Wilmot Rd    , Tucson, AZ 85712  )      
 
 ---
 Priority Focus
 ---
 
-	Sobriety                       ( AA / NA )
-  	Change of Address              ( 450 S Rosemont Ave, Tucson AZ, 85711 )
+	Sobriety                  ( AA / NA )
+  	Permanent Address         ( 450 S Rosemont Ave, Tucson AZ, 85711 )
 
 ---
 Daily Focus
 ---
 
-	Meet Daily % DV Nutritional / Supplemental Goals
+	Meet Daily % DV Nutritional / Supplemental Goals  ( JG - DM / Target / Wal-Mart / Fry's / Safeway / Food Pantry   )
 	Sobriety                                          ( People, Places, Things                                        )    
 	Gym		      			          ( Planet Fitness, Vasa Fitness                                  )
 	Medication as Directed                            ( Ibuprofen / Vitamin / Magnesium Oxide / Trazadone / Melatonin )
-	Saving Money				          ( PNC Bank Account                                              )
+	Saving Money				          ( PNC Bank Account, Venmo Account, Cashapp Account              )
 
 ---
 Weekly Focus
@@ -129,8 +131,8 @@ Monthly Focus
 ---
 
 	Medications                                              ( Wal-Mart Pharmacy          )                                 
-	Sponsorship / Sponsor Chair AA Meetings / Speaker Alano  ( Eastside / Pima / North    )
-	DUI Classes / Risk Assessment		     		 ( Sonoran Serenity           )
+	AA Sponsorship / Sponsor Chair AA Meetings / Speaker     ( Eastside / Pima / North    )
+	Risk Assessment / DUI Classes		     		 ( Sonoran Serenity           )
 	Traditional / Non-Traditional Support Letters 		 ( AA / Reference Development )	
 	Driver's License					 ( Zoom Meeting with Chicago  )
  	Credit Building / Saving Money 
@@ -151,32 +153,31 @@ Shopping List
 	Cell Phone		( Samsung Android                                )
 	Gravel Bicycle          ( Trek Checkpoint / Specialized Diverge          )
 	Puppy			( Claws and Paws in Oro Valley / Humane Society  )
-	
-	
+		
 ---
 Recurring Bills
 ---
 	
-	Vasa / Planet Fitness Bill  ( $14.99 / Month     )        
-	Phone Bill                  ( $1.00  / Month     )   
-	Microsoft Bill              ( $9.99  / Month     ) 
-	Spotify                     ( $9.99  / Month     )           
+	Vasa                     ( $14.99 / Month     )        
+	Phone Bill               ( $1.00  / Month     )   
+	Microsoft Bill           ( $9.99  / Month     ) 
+	Spotify                  ( $9.99  / Month     )           
 
 ---
 Daily Schedule
 ---
-
-	Gym                      ( Vasa Fitness, Planet Fitness                           )           
- 	Meetings 365             ( AA / NA - Online / In-Person                           )
-	Job Search   	         ( Indeed / Company Site / In-Person                      )
- 	Research & Development   ( Codes / Problem Sets / Abstracts / Textbook            )
+	Job Search   	         ( Indeed / Company Site / In-Person                      )        
+ 	Meetings                 ( AA / NA - Online / In-Person                           )	
+	Gym                      ( Vasa Fitness, Planet Fitness                           )
 	House Duties             ( Dishes, Floors, Bedroom, Bathroom, Clothes, Lawn, Cook )
+	Research & Development   ( Codes / Exercises / Abstracts / Textbook               )
  
 ---
 Leisure
 ---       
        
-	Internet / Writing / Coding / Budgeting / Problem Solving / Exploring
+	Internet / Writing / Coding 
+	Budgeting / Exercising / Exploring
         Confinement / Isolation 
         Rest / Meditation / Preparation
         Situation Planning / Activities
