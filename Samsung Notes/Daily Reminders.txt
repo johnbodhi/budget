@@ -108,7 +108,7 @@ Priority Focus
 ---
 Daily Focus
 ---
-
+  
 	Meet Daily % DV Nutritional / Supplemental Goals  ( JG - DM / Target / Wal-Mart / Fry's / Safeway / Food Pantry   )
 	Sobriety                                          ( People, Places, Things                                        )    
 	Gym		      			          ( Planet Fitness, Vasa Fitness                                  )
@@ -175,7 +175,7 @@ Daily Schedule
 Leisure
 ---       
        
-	Internet / Writing / Coding 
+	Writing / Coding 
 	Budgeting / Exercising / Exploring
         Confinement / Isolation 
         Rest / Meditation / Preparation
