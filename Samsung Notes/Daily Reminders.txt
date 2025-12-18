@@ -21,10 +21,12 @@ Return Address
 On-Site Appointments
 ---
 
-DUI Lawyer ( Illinois ):
+DUI Lawyer           ( Illinois ):
 
 
 Mental Health Lawyer ( Illinois ):
+
+Injury Lawyer        ( Arizona  ):
 
 
 FBI Finger Printing (VAF):
@@ -66,8 +68,13 @@ Banner Medical:
  	3838 N Campbell Ave, Tucson AZ, 85712
  	Building #2
 
+
+
+
 	The Neuropsychology Institute
 	The Memory Program
+
+
 
 	5501 N Swan Rd. #100
 	Tucson AZ, 85718
@@ -101,7 +108,8 @@ On-Site Items
 ---
 Priority Focus
 ---
-
+	
+	Food                      
 	Sobriety                  ( AA / NA )
   	Permanent Address         ( 450 S Rosemont Ave, Tucson AZ, 85711 )
 
@@ -160,7 +168,7 @@ Recurring Bills
 	Vasa                     ( $14.99 / Month     )        
 	Phone Bill               ( $1.00  / Month     )   
 	Microsoft Bill           ( $9.99  / Month     ) 
-	Spotify                  ( $9.99  / Month     )           
+         
 
 ---
 Daily Schedule
